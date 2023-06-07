@@ -24,3 +24,8 @@ button {
 #response {
     padding-bottom: 30px;
 }
+
+.response-div {
+    justify-content: center;
+    align-items: center;
+}
