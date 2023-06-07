@@ -1,0 +1,26 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lemonchiffon;
+    font-size: 20px;
+}
+
+.card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-width: 40px;
+}
+
+header {
+    justify-content: center;
+    margin-left: 50%;
+}
+
+button {
+    background-color: lightblue;
+    margin-left: 50%;
+}
+
+#response {
+    padding-bottom: 30px;
+}
